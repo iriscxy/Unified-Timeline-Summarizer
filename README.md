@@ -1,4 +1,4 @@
-Dataset and code for TOIS 2022 [paper](https://arxiv.org/abs/xxxx) "Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order"
+Dataset and code for TOIS 2022 [paper](https://dl.acm.org/doi/pdf/10.1145/3517221) "Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order"
 
 # How to get the dataset
 Signed the following copyright announcement with your name and organization. Then complete the form online(https://forms.gle/j7YFeEpCmNvmHgns5) and **mail** to xiuying.chen#kaust.edu.sa ('#'->'@'), we will send you the corpus by e-mail when approved.
